@@ -4,7 +4,13 @@
 
 ## Описание проекта
 
-Требуется спрогнозировать количество заказов такси на следующий час, чтобы привлекать больше водителей в период пиковой нагрузки.
+Требуется спрогнозировать количество заказов такси на следующий час для системы предсказания объема заказов и привлечения большего количества водителей в период пиковой нагрузки.
+
+## Направление 
+- Машинное обучение
+- Регрессия
+- Statsmodels
+- Временные ряды
 
 ## Навыки и инструменты
 
@@ -15,13 +21,10 @@
 - sklearn.model_selection.**TimeSeriesSplit**
 - sklearn.model_selection.**GridSearchCV**
 - sklearn.metrics.**mean_squared_error**
-- sklearn.metrics.**make_scorer**
 - sklearn.linear_model.**LinearRegression**
 - sklearn.ensemble.**RandomForestRegressor**
 - catboost.**CatBoostRegressor**
 - **matplotlib**
-
-## 
 
 ## Общий вывод
 
