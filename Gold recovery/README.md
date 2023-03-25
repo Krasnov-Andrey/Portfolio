@@ -1,6 +1,6 @@
 # Улучшение процесса обогащения золота
 
-[ipynb]()
+[ipynb](https://github.com/Krasnov-Andrey/Portfolio/blob/main/Gold%20recovery/Gold%20recovery.ipynb)
 
 ## Описание проекта
 
