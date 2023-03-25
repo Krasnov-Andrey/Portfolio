@@ -1,6 +1,6 @@
 # Прогноз количества заказов для сервиса такси
 
-[ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[ipynb](https://github.com/Krasnov-Andrey/Portfolio/blob/main/Service%20for%20taxi/Service%20for%20taxi.ipynb)
 
 ## Описание проекта
 
